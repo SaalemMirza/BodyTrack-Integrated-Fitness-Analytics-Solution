@@ -1,4 +1,4 @@
-Welcome to the Gym-Management-System (DBMS project) repository! This project aims to provide a comprehensive solution for managing gym operations efficiently, leveraging data modeling, data warehousing, and data visualization techniques. Below, you'll find an overview of the project's key components and methodologies:
+Welcome to the BodyTrack-Integrated-Fitness-Analytics-Solution (DBMS project) repository! This project aims to provide a comprehensive solution for managing gym operations efficiently, leveraging data modeling, data warehousing, and data visualization techniques. Below, you'll find an overview of the project's key components and methodologies:
 
 Entity-Relationship Diagram (ERD):
 The project includes a meticulously designed ERD that illustrates the relationships between different entities in the gym management system. Entities such as Customer, Membership, Payment, Trainer, Schedule, and more are interconnected through well-defined relationships, ensuring data integrity and consistency.
